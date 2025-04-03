@@ -30,6 +30,7 @@ public class Spies{
         
         // this will prints the list
         // of spies and their assignments
+        System.out.println("Who's spying on whom?\n");
         System.out.println(bond);
 
 
